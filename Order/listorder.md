@@ -64,7 +64,6 @@ OperatorId:123
 |Price|单价（包年包月）|
 |TotalPrice|总价|
 |RelatedId|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|
-|OtherRelatedId|附属ID记录购买附属产品时附属产品的关联号|
 |State|订单状态*见表订单状态(State)*|
 |IsPay|结算状态 1已结算 2未结算 3已返款|
 |IsCancel|订单取消状态 *见表订单取消状态(IsCancel)*|
