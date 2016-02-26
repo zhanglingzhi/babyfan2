@@ -39,6 +39,42 @@ OperatorId:123
 |PageSize|Integer|每页几条记录，分页参数，若不传分页参数，则全部取出|可选|
 
 
+ 
+
+
+#### 响应元素(Response Elements)
+|名称|  描述|
+| ------------- | -------------|
+|OrderId|订单ID|
+|OrderType|订单类型|
+|ProductId|产品ID|
+|ProductType|产品类型|
+|UserId|所属用户|
+|OpUser|操作用户|
+|PayUser|付款用户|
+|TrackerUser|跟踪销售|
+|CreateTime|下单时间|
+|PayTime|付款时间|
+|EffectTime|生效时间|
+|EndTime|到期时间|
+|BuyYear|购买年限|
+|Months|月份数,用于生成子订单数|
+|YearType|年限类型:1-年;2-月;3-天;5-半年;|
+|Fee|费用（按量，元/小时）|
+|Price|单价（包年包月）|
+|TotalPrice|总价|
+|RelatedId|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|
+|OtherRelatedId|附属ID记录购买附属产品时附属产品的关联号|
+|State|订单状态1:处理完成2 :尚未处理3:正在处理4:处理失败5:申请取消|
+|IsPay|结算状态 1已结算 2未结算 3已返款|
+|IsCancel|是否已取消 0:未取消；1:已取消|
+|CouponInfo|优惠信息|
+|RoomId|机房ID|
+|IsDel|云主机是否已删除 0:未删除；1:已删除|
+|PayType|支付类型:1-包年包月;2-按量付|
+|PayState|支付状态:1-待下单;2-待结算;3-待支付;4-已支付;5-支付失败;-6待生效|
+
+
 
 #####订单类型(OrderType)
 |id|名称| |id|名称|
@@ -78,40 +114,6 @@ OperatorId:123
 |1|待下单| |2|待结算|
 |3|待支付| |4|已支付|
 |5|支付失败| |6|待生效|
- 
-
-
-#### 响应元素(Response Elements)
-|名称|  描述|
-| ------------- | -------------|
-|OrderId|订单ID|
-|OrderType|订单类型|
-|ProductId|产品ID|
-|ProductType|产品类型|
-|UserId|所属用户|
-|OpUser|操作用户|
-|PayUser|付款用户|
-|TrackerUser|跟踪销售|
-|CreateTime|下单时间|
-|PayTime|付款时间|
-|EffectTime|生效时间|
-|EndTime|到期时间|
-|BuyYear|购买年限|
-|Months|月份数,用于生成子订单数|
-|YearType|年限类型:1-年;2-月;3-天;5-半年;|
-|Fee|费用（按量，元/小时）|
-|Price|单价（包年包月）|
-|TotalPrice|总价|
-|RelatedId|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|
-|OtherRelatedId|附属ID记录购买附属产品时附属产品的关联号|
-|State|订单状态1:处理完成2 :尚未处理3:正在处理4:处理失败5:申请取消|
-|IsPay|结算状态 1已结算 2未结算 3已返款|
-|IsCancel|是否已取消 0:未取消；1:已取消|
-|CouponInfo|优惠信息|
-|RoomId|机房ID|
-|IsDel|云主机是否已删除 0:未删除；1:已删除|
-|PayType|支付类型:1-包年包月;2-按量付|
-|PayState|支付状态:1-待下单;2-待结算;3-待支付;4-已支付;5-支付失败;-6待生效|
 
 #### 请求示例
 
