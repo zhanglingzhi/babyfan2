@@ -15,7 +15,7 @@
    * [BatchCancelOrder](Order/batchcancelorder.md)
 * [订单取消规则](createrule.md)
    * [CreateRule](Rule/createrule.md)
-   * ModifyRule
+   * [ModifyRule](modifyrule.md)
    * ListRule
    * GetRule
 
