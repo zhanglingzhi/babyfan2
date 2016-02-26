@@ -54,7 +54,7 @@ OperatorId:123
 |Price|Float|单价（包年包月）|必选|
 |TotalPrice|Float|总价|必选|
 |AllPrice|Float|优惠后价格|必选|
-|RelatedId|Integer|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|必选|
+|RelatedId|Integer|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|可选|
 |CouponInfo|String|优惠信息|可选|
 |RoomId|Integer|机房ID|必选|
 |PoolId|Integer|集群ID|可选|
