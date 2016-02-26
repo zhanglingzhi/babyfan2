@@ -67,6 +67,7 @@ Date: GMT Date
 |**错误码(ErrorCode)**|**描述(ErrorMessage)**|**Http状态码**|**语义**|
 | ------------- |-------------| -------------| ------------- |
 |MissingParam|The parameter "${param}" that is mandatory for processing this request is not supplied.. |404 |缺少参数|
+|OrderNotFount|The OrderId ${OrderId} not found. |400 |订单不存在|
 |SessionTimedout|The creator ${creatorId} is not logged in or session is timeout. |403 |会话超时|
 |AccessDenied|The creator ${creatorId} is not permitted for AddOrder. |403 |无权访问|
 
