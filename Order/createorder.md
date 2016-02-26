@@ -64,7 +64,7 @@ OperatorId:123
 |IsTest|Integer|是否试用 0:正式；1:试用|必选|
 |OrderInfo|String|订单信息|必选|
 |PayType|Integer|订单支付类型 *见表订单支付类型(PayType)*|必选|
-|PayState|Integer|支付状态:1-待下单;2-待结算;3-待支付;4-已支付;5-支付失败;-6待生效|必选|
+|PayState|Integer|支付状态 *见表订单支付状态(PayState)*|必选|
 
 
 
