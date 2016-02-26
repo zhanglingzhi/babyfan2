@@ -12,7 +12,7 @@ API概览
 |[DeleteOrder](Order/deleteorder.md)|删除订单//TODO用户控制台没有删除功能|
 |[BatchCancelOrder](Order/batchcancelorder.md)|批量取消订单//TODO（与单个订单取消限制条件不一样，用于72小时内退款，暂时用不到）|
 
-### 订单取消规则设置相关接口//TODO暂用不到
+### 订单取消规则设置相关接口//TODO POC阶段暂不支持
 
 |API|描述|
 | ------------- | ------------- |
