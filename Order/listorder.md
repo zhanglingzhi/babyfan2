@@ -73,6 +73,7 @@ OperatorId:123
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
 |PayType|支付类型 *见表订单支付类型(PayType)*|
 |PayState|支付状态 *见表订单支付状态(PayState)*|
+|CancelRejectReason|订单取消备注|
 
 
 
