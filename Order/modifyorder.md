@@ -32,6 +32,8 @@ Date: GMT Date
 |PayState|Integer|支付状态 *见表订单支付状态(PayState)*|可选|
 |IsCancel|Integer|订单取消状态 *见表订单取消状态(IsCancel)*|可选|
 
+|IsCancel|Integer|订单取消状态 *见表订单取消状态(IsCancel)*|可选|
+
 
 
 #### 响应元素(Response Elements)
