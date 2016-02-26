@@ -63,7 +63,7 @@ OperatorId:123
 |PoolId|Integer|集群ID|可选|
 |IsTest|Integer|是否试用 0:正式；1:试用|必选|
 |OrderInfo|String|订单信息|必选|
-|PayType|Integer|支付类型:1-预付;2-后付;3-按量付|必选|
+|PayType|Integer|支付类型:1-包年包月;2-按量付|必选|
 |PayState|Integer|支付状态:1-待下单;2-待结算;3-待支付;4-已支付;5-支付失败;-6待生效|必选|
 
 
