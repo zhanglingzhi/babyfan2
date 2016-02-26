@@ -42,7 +42,7 @@ OperatorId:-1
 |RelatedId|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|
 |OtherRelatedId|附属ID记录购买附属产品时附属产品的关联号|
 |State|订单状态*见表订单状态(State)*|
-|IsCancel|订单取消状态(IsCancel)|
+|IsCancel|订单取消状态*见表订单取消状态(IsCancel)*|
 |CouponInfo|优惠信息|
 |RoomId|机房ID|
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
