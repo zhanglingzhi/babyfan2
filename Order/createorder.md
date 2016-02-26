@@ -72,7 +72,7 @@ OperatorId:123
 |**名称**|**描述**|
 | ------------- |:-------------:|
 |OrderID|订单号 |
-|OrderType|订单类型 |
+|OrderType|订单类型 *见表订单类型(OrderType)*|
 |ProductId|产品ID|
 |ProductCategoryId|产品类型|
 |UserId|所属用户|
