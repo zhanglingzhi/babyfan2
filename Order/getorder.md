@@ -48,6 +48,7 @@ OperatorId:-1
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
 |PayType|订单支付类型 *见表订单支付类型(PayType)*|
 |PayState|支付状态 *见表订单支付状态(PayState)*|
+|CancelRejectReason|订单取消备注|
 |ChildOrder|子订单|
 |&nbsp;&nbsp;&nbsp;&nbsp;OrderId|子订单订单号|
 |&nbsp;&nbsp;&nbsp;&nbsp;NoBillMoney|子订单未开票金额|
