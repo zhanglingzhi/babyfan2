@@ -76,7 +76,7 @@ OperatorId:123
 |UserId|所属用户|
 |OpUser|操作用户|
 |CreateTime|下单时间|
-|EffectTime|操作人的UserId|
+|EffectTime|生效时间|
 |EndTime|生效时间|
 |BuyYear|购买年限|
 |Months|月份数,用于生成子订单数|
