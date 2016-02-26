@@ -24,6 +24,7 @@ OperatorId:123
   "YearType":2,
   "Fee":"23.56",
   "Price":"25.21",
+  "RelatedId":"1",
   "TotalPrice":"50.42",
   "AllPrice":"48.32",
   "RoomId":5,
