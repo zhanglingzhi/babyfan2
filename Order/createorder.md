@@ -99,6 +99,15 @@ OperatorId:123
 
 
 
+ 
+#### 错误码
+|**错误码(ErrorCode)**|**描述(ErrorMessage)**|**Http状态码**|**语义**|
+| ------------- |-------------| -------------| ------------- |
+|MissingParam|The parameter "${param}" that is mandatory for processing this request is not supplied.. |404 |缺少参数|
+|SessionTimedout|The creator ${creatorId} is not logged in or session is timeout. |403 |会话超时|
+|AccessDenied|The creator ${creatorId} is not permitted for AddOrder. |403 |无权访问|
+
+
 #####订单类型(OrderType)
 |id|名称| |id|名称|
 | --- |--|--| --- |--|
@@ -137,13 +146,6 @@ OperatorId:123
 |1|待下单| |2|待结算|
 |3|待支付| |4|已支付|
 |5|支付失败| |6|待生效|
- 
-#### 错误码
-|**错误码(ErrorCode)**|**描述(ErrorMessage)**|**Http状态码**|**语义**|
-| ------------- |-------------| -------------| ------------- |
-|MissingParam|The parameter "${param}" that is mandatory for processing this request is not supplied.. |404 |缺少参数|
-|SessionTimedout|The creator ${creatorId} is not logged in or session is timeout. |403 |会话超时|
-|AccessDenied|The creator ${creatorId} is not permitted for AddOrder. |403 |无权访问|
 
 
 
