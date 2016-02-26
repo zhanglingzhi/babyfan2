@@ -7,7 +7,7 @@
 #### 请求语法
 
 ```
-GET /Order HTTP/1.1
+GET /V1.0/Order HTTP/1.1
 或
 GET /Order?OrderID={$OrderID}&UserID={$UserID} HTTP/1.1
 Content-Type: application/json
