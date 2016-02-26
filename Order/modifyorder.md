@@ -11,7 +11,7 @@
 #### 请求语法
 
 ```
-POST /ModifyOrder HTTP/1.1
+POST /Order/{$OrderID} HTTP/1.1
 Date: GMT Date
 
 {
