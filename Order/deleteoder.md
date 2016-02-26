@@ -5,7 +5,7 @@
 #### 请求语法
 
 ```
-DELETE /Order?OrderId={$OrderId} HTTP/1.1
+DELETE /V1.0/Order?OrderId={$OrderId} HTTP/1.1
 Date: GMT Date
 ```
 
@@ -28,7 +28,7 @@ Date: GMT Date
 
 ##### Request
 ```
-DELETE /Order?OrderId=123&OperatorId=1 HTTP/1.1
+DELETE /V1.0/Order?OrderId=123&OperatorId=1 HTTP/1.1
 Date: Fri, 24 Dec 2015 03:15:40 GMT
 ```
 
