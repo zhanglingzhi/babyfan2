@@ -25,6 +25,7 @@ Date: GMT Date
 
 |**名称**|**类型**|	**描述**|**是否可选**|
 | ------------- |:-------------:|:-------------| ------------- |
+|OrderId|String|订单号|必选|
 |TotalPrice|Float|总价|可选|
 |State|Integer|订单状态1:处理完成2:尚未处理3:正在处理4:处理失败5:申请取消|可选|
 |RelatedId|Integer|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|可选|
@@ -75,7 +76,7 @@ Date: GMT Date
 
 ##### Request
 ```
-POST /ModifyOrder HTTP/1.1
+PUT /Order HTTP/1.1
 Date: Fri, 24 Dec 2015 03:15:40 GMT
 
 {
