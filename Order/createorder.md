@@ -177,7 +177,7 @@ Date: Fri, 24 Dec 2015 03:15:40 GMT
   "PoolId":4,
   "IsTest":0,
   "OrderInfo":"{}",
-  "PayType":1
+  "PayType":1，
   "PayState":1
 }
 ```
