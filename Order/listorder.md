@@ -25,8 +25,10 @@ OperatorId:123
 |IsCancel|integer|取消状态 0：未取消 1：已取消 2：申请取消 <br/> 默认0 未取消（正常状态) <br/> 不传该字段则不对该字段做筛选 <br/>  包年包月时传该字段有意义|可选|
 |OrderId|String|订单ID|可选|
 |UserId|Integer|订单所属用户ID|可选|
-|TrackerUser|String|跟踪销售|可选|
-|CreateTime|String|下单时间|可选|
+|TrackerUser|Integer|跟踪销售|可选|
+|CreateTime|Integer|下单时间|可选|
+|EffectTime|Integer|下单时间|可选|
+|EndTime|Integer|下单时间|可选|
 |RoomId|Integer|机房|可选|
 |ProductId|Integer|产品型号|可选|
 |ProductCategoryId|String|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|可选|
