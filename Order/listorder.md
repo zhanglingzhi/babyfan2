@@ -67,7 +67,7 @@ OperatorId:123
 |OtherRelatedId|附属ID记录购买附属产品时附属产品的关联号|
 |State|订单状态*见表订单状态(State)*|
 |IsPay|结算状态 1已结算 2未结算 3已返款|
-|IsCancel|是否已取消 0:未取消；1:已取消|
+|IsCancel|订单取消状态 *见表订单取消状态(IsCancel)*|
 |CouponInfo|优惠信息|
 |RoomId|机房ID|
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
