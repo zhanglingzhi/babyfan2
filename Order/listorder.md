@@ -159,7 +159,8 @@ OperatorId:1
                 "RoomId":0,
                 "IsDel":0,
                 "PayType":0,
-                "PayState":0
+                "PayState":0,
+                "CancelRejectReason":""
             },
             {
                 "OrderId":"2",
@@ -188,7 +189,8 @@ OperatorId:1
                 "RoomId":0,
                 "IsDel":0,
                 "PayType":0,
-                "PayState":0
+                "PayState":0,
+                "CancelRejectReason":""
             }
          ]
 	
