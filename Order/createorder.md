@@ -46,8 +46,8 @@ OperatorId:123
 |UserId|Integer|所属用户|必选|
 |OpUser|Integer|操作用户|必选|
 |CreateTime|Integer|下单时间|必选|
-|EffectTime|Integer|操作人的UserId|必选|
-|EndTime|Integer|生效时间|必选|
+|EffectTime|Integer|生效时间|必选|
+|EndTime|Integer|到期时间|必选|
 |BuyYear|Integer|购买年限|必选|
 |Months|Integer|月份数,用于生成子订单数|必选|
 |YearType|Integer|年限类型:1-年;2-月;3-天;5-半年;|必选|
