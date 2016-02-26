@@ -34,7 +34,7 @@ OperatorId:123
 |ProductCategoryId|Integer|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|可选|
 |State|Integer|订单状态|可选|
 |OrderType|Integer|订单类型|可选|
-|OpUser|String|下单用户|可选|
+|OpUser|Integer|下单用户|可选|
 |PageNo|Integer|第几页，分页参数，首页从1开始，若不传分页参数，则全部取出|可选|
 |PageSize|Integer|每页几条记录，分页参数，若不传分页参数，则全部取出|可选|
 
