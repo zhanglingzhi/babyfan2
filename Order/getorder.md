@@ -46,7 +46,7 @@ OperatorId:-1
 |CouponInfo|优惠信息|
 |RoomId|机房ID|
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
-|PayType|支付支付类型 *见表订单支付类型(PayType)*|
+|PayType|订单支付类型 *见表订单支付类型(PayType)*|
 |PayState|支付状态 *见表订单支付状态(PayState)*|
 |ChildOrder|子订单|
 |&nbsp;&nbsp;&nbsp;&nbsp;OrderId|子订单订单号|
