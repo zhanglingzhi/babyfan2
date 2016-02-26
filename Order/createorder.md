@@ -171,7 +171,6 @@ Date: Fri, 24 Dec 2015 03:15:40 GMT
   "TotalPrice":"50.42",
   "AllPrice":"48.32",
   "RelatedId":0,
-  "OtherRelatedId":0,
   "CouponInfo":"{}",
   "RoomId":5,
   "PoolId":4,
