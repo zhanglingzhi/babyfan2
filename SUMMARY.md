@@ -11,6 +11,6 @@
    * [GetOrder](Order/getorder.md)
    * [AddOrder](Order/createorder.md)
    * [ModifyOrder](Order/modifyorder.md)
-   * [DeleteOder](Order/deleteorder.md)
+   * [DeleteOder](Order/deleteoder.md)
    * [BatchCancelOrder](Order/batchcancelorder.md)
 
