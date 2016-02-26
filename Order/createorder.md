@@ -117,7 +117,7 @@ Date: Fri, 24 Dec 2015 03:15:40 GMT
 {
   "OrderType":12,
   "ProductId":20,
-  "ProductType":2,
+  "ProductCategoryId":2,
   "UserId":50,
   "OpUser":100,
   "CreateTime":1456392166,
