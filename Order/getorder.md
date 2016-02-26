@@ -24,7 +24,7 @@ OperatorId:-1
 |OrderId|订单号|
 |OrderType|订单类型|
 |ProductId|产品ID|
-|ProductType|产品类型|
+|ProductCategoryId|产品类型|
 |UserId|所属用户|
 |OpUser|操作用户|
 |PayUser|付款用户|
