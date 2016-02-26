@@ -22,7 +22,7 @@ OperatorId:-1
 |名称|  描述|
 | ------------- | -------------|
 |OrderId|订单号|
-|OrderType|订单类型*见表订单类型(OrderType)*|
+|OrderType|订单类型 *见表订单类型(OrderType)*|
 |ProductId|产品ID|
 |ProductCategoryId|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|
 |UserId|所属用户|
@@ -41,12 +41,12 @@ OperatorId:-1
 |TotalPrice|总价|
 |RelatedId|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|
 |OtherRelatedId|附属ID记录购买附属产品时附属产品的关联号|
-|State|订单状态*见表订单状态(State)*|
-|IsCancel|订单取消状态*见表订单取消状态(IsCancel)*|
+|State|订单状态 *见表订单状态(State)*|
+|IsCancel|订单取消状态 *见表订单取消状态(IsCancel)*|
 |CouponInfo|优惠信息|
 |RoomId|机房ID|
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
-|PayType|支付类型*见表订单支付类型(PayType)*|
+|PayType|支付类型 *见表订单支付类型(PayType)*|
 |PayState|支付状态 *见表订单支付状态(PayState)*|
 |ChildOrder|子订单|
 |&nbsp;&nbsp;&nbsp;&nbsp;OrderId|子订单订单号|
