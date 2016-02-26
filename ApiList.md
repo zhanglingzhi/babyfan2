@@ -10,7 +10,6 @@ API概览
 |[AddOrder](Order/createorder.md)|提交生成订单|
 |[ModifyOrder](Order/modifyorder.md)|修改订单状态/开通后填入关联产品ID等|
 |[DeleteOrder](Order/deleteorder.md)|删除订单//TODO用户控制台没有删除功能|
-|[CancelOrder](Order/cancelorder.md)|取消订单，用于72小时内退款，暂时用不到|
 |[BatchCancelOrder](Order/batchcancelorder.md)|批量取消订单（与单个订单取消限制条件不一样，用于72小时内退款，暂时用不到|
 
 ### 订单取消规则设置相关接口
