@@ -96,6 +96,7 @@ OperatorId:123
 |OrderInfo|订单信息|
 |PayType|订单支付类型 *见表订单支付类型(PayType)*|
 |PayState|支付状态 *见表订单支付状态(PayState)*|
+|CancelRejectReason|订单取消备注|
 
 
 
