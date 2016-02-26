@@ -21,8 +21,8 @@ OperatorId:123
 
 |名称|类型|	描述|是否可选|
 | ------------- |:-------------:| -------------| ------------- |
-|IsUsage|integer|是否按量订单，1：是，0或不传：否 |可选|
-|IsCancel|integer|取消状态 0：未取消 1：已取消 2：申请取消默认0 未取消（正常状态|可选|
+|IsUsage|integer|是否按量订单，1：是，0或空值：否；不传该字段则不做筛选 |可选|
+|IsCancel|integer|取消状态 0：未取消 1：已取消 2：申请取消；默认0 未取消（正常状态|可选|
 |OrderId|String|订单ID|可选|
 |UserId|Integer|订单所属用户ID|可选|
 |TrackerUser|String|跟踪销售|可选|
