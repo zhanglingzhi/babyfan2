@@ -23,7 +23,7 @@ OperatorId:123
 | ------------- |:-------------:| -------------| ------------- |
 |IsUsage|integer|是否按量订单，1：是，0或不传：否 |可选|
 |IsCancel|integer|取消状态 0：未取消 1：已取消 2：申请取消 <br/> 默认0 未取消（正常状态) <br/> 不传该字段则不对该字段做筛选 <br/>  包年包月时传该字段有意义|可选|
-|OrderId|String|订单ID|可选|
+|OrderId|String|订单号|可选|
 |UserId|Integer|订单所属用户ID|可选|
 |TrackerUser|Integer|跟踪销售|可选|
 |CreateTime|Integer|下单时间|可选|
