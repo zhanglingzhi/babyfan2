@@ -11,7 +11,7 @@
 #### 请求语法
 
 ```
-PUT /Order/{$OrderID} HTTP/1.1
+PUT /V1.0/Order/{$OrderID} HTTP/1.1
 Date: GMT Date
 
 {
