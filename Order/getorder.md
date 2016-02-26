@@ -5,7 +5,7 @@
 #### 请求语法
 
 ```
-GET /Order/{$OrderId} HTTP/1.1
+GET /V1.0/Order/{$OrderId} HTTP/1.1
 Content-Type: application/json
 Date: UTC Date
 OperatorId:-1
