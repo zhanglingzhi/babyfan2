@@ -41,7 +41,7 @@ OperatorId:123
 
 |**名称**|**类型**|	**描述**|**是否可选**|
 | ------------- |:-------------:|:-------------| ------------- |
-|OrderType|Integer|订单类型 |必选|
+|OrderType|Integer|订单类型 *见表订单类型(OrderType)*|必选|
 |ProductId|Integer|产品ID|必选|
 |ProductCategoryId|Integer|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|必选|
 |UserId|Integer|所属用户|必选|
