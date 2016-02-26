@@ -62,6 +62,7 @@ Date: GMT Date
 |OrderInfo|订单信息|
 |PayType|订单支付类型 *见表订单支付类型(PayType)*|
 |PayState|支付状态 *见表订单支付状态(PayState)*|
+|CancelRejectReason|String|订单取消备注|可选|
 
 
 #### 错误码
