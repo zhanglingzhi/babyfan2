@@ -48,7 +48,7 @@ OperatorId:-1
 |RoomId|机房ID|
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
 |PayType|支付类型:1-包年包月;2-按量付|
-|PayState|支付状态 *见表PayState*|
+|PayState|支付状态 *见表订单支付状态(PayState)*|
 |ChildOrder|子订单|
 |&nbsp;&nbsp;&nbsp;&nbsp;OrderId|子订单订单号|
 |&nbsp;&nbsp;&nbsp;&nbsp;NoBillMoney|子订单未开票金额|
