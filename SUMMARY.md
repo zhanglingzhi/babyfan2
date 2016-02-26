@@ -17,5 +17,5 @@
    * [CreateRule](Rule/createrule.md)
    * [ModifyRule](Rule/modifyrule.md)
    * [ListRule](Rule/listrule.md)
-   * [GetRule](getrule.md)
+   * [GetRule](Rule/getrule.md)
 
