@@ -72,7 +72,7 @@ OperatorId:123
 |RoomId|机房ID|
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
 |PayType|支付类型 *见表订单支付类型(PayType)*|
-|PayState|支付状态:1-待下单;2-待结算;3-待支付;4-已支付;5-支付失败;-6待生效|
+|PayState|支付状态 *见表订单支付状态(PayState)*|
 
 
 
