@@ -107,7 +107,7 @@ Date: Fri, 24 Dec 2015 03:15:40 GMT
   "Price":"25.21",
   "TotalPrice":"50.42",
   "AllPrice":"48.32",
-  "RelatedId":0,
+  "RelatedId":50,
   "OtherRelatedId":0,
   "CouponInfo":"{}",
   "RoomId":5,
