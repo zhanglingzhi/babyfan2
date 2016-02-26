@@ -181,7 +181,6 @@ OperatorId:1
                 "Price":"0.00",
                 "TotalPrice":"0.00",
                 "RelatedId":0,
-                "OtherRelatedId":"",
                 "State":0,
                 "IsPay":0,
                 "IsCancel":0,
