@@ -20,7 +20,7 @@ OperatorId:123
 
 |名称|类型|	描述|是否可选|
 | ------------- |:-------------:| -------------| ------------- |
-|OrderId|Integer|订单ID|可选|
+|OrderId|String|订单ID|可选|
 |UserId|Integer|订单所属用户ID|可选|
 |TrackerUser|String|跟踪销售|可选|
 |CreateTime|String|下单时间|可选|
