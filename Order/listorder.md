@@ -31,7 +31,7 @@ OperatorId:123
 |EndTime|Integer|到期时间|可选|
 |RoomId|Integer|机房|可选|
 |ProductId|Integer|产品型号|可选|
-|ProductCategoryId|String|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|可选|
+|ProductCategoryId|Integer|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|可选|
 |State|String|订单状态|可选|
 |OrderType|String|订单类型|可选|
 |OpUser|String|下单用户|可选|
