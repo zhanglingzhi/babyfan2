@@ -105,6 +105,7 @@ OperatorId:123
 |AccessDenied|The creator ${creatorId} is not permitted for AddOrder. |403 |无权访问|
 
 
+
 #####订单类型(OrderType)
 
 |id|名称| |id|名称|
@@ -119,6 +120,7 @@ OperatorId:123
 |15|克隆虚拟机| | | | |
 
 ##### 订单状态(State)
+
 |id|名称| |id|名称|
 | --- |--|--| --- |--|
 |1|处理完成| |2|尚未处理|
