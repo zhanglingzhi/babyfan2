@@ -5,7 +5,7 @@
 #### 请求语法
 
 ```
-POST /Order HTTP/1.1
+POST /V1.0/Order HTTP/1.1
 Accept: application/json
 Date: UTC Date
 OperatorId:123
