@@ -119,7 +119,7 @@ Date: GMT Date
 
 ##### Request
 ```
-PUT /Order/123 HTTP/1.1
+PUT /V1.0/Order/123 HTTP/1.1
 Date: Fri, 24 Dec 2015 03:15:40 GMT
 
 {
