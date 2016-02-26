@@ -27,9 +27,9 @@ Date: GMT Date
 | ------------- |:-------------:|:-------------| ------------- |
 |OrderId|String|订单号|必选|
 |TotalPrice|Float|总价|可选|
-|State|Integer|订单状态1:处理完成2:尚未处理3:正在处理4:处理失败5:申请取消|可选|
+|State|Integer|订单状态 *见表订单状态(State)*|可选|
 |RelatedId|Integer|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|可选|
-|PayState|Integer|支付状态 *见表订单状态(State)*|可选|
+|PayState|Integer|支付状态 *见表订单支付状态(PayState)*|可选|
 |IsCancel|Integer|订单取消状态 *见表订单取消状态(IsCancel)*|可选|
 
 
