@@ -43,7 +43,7 @@ OperatorId:123
 | ------------- |:-------------:|:-------------| ------------- |
 |OrderType|Integer|订单类型 |必选|
 |ProductId|Integer|产品ID|必选|
-|ProductType|Integer|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|必选|
+|ProductCategoryId|Integer|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|必选|
 |UserId|Integer|所属用户|必选|
 |OpUser|Integer|操作用户|必选|
 |CreateTime|Integer|下单时间|必选|
