@@ -157,7 +157,8 @@ Date: Fri, 24 Dec 2015 03:15:40 GMT
   "IsTest":0,
   "OrderInfo":"{}",
   "PayType":1
-  "PayState":4
+  "PayState":4,
+  "CancelRejectReason":""
   }
 ```
 
