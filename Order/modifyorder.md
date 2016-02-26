@@ -31,7 +31,7 @@ Date: GMT Date
 |RelatedId|Integer|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|可选|
 |PayState|Integer|支付状态 *见表订单支付状态(PayState)*|可选|
 |IsCancel|Integer|订单取消状态 *见表订单取消状态(IsCancel)*|可选|
-|IsCancel|String|订单取消状态 *见表订单取消状态(IsCancel)*|可选|
+|CancelRejectReason|String|订单取消状态 *见表订单取消状态(IsCancel)*|可选|
 
 
 
