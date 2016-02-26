@@ -169,7 +169,7 @@ OperatorId:1
                         "State":0,
                         "UserID":1,
                         "BeginTime":1456419600,
-                        "EndTime":"1456786799,
+                        "EndTime":"1456786799
                     },
                      {
                         "OrderId":"1111",
@@ -182,7 +182,7 @@ OperatorId:1
                         "State":0,
                         "UserID":1,
                         "BeginTime":1456786801,
-                        "EndTime":1459461599,
+                        "EndTime":1459461599
                     },
                      {
                         "OrderId":"1111",
@@ -195,7 +195,7 @@ OperatorId:1
                         "State":0,
                         "UserID":1,
                         "BeginTime":1459461601,
-                        "EndTime":1461600000,
+                        "EndTime":1461600000
                     }
                 ]
             },
