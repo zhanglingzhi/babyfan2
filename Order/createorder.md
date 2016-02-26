@@ -77,7 +77,7 @@ OperatorId:123
 |OpUser|操作用户|
 |CreateTime|下单时间|
 |EffectTime|生效时间|
-|EndTime|生效时间|
+|EndTime|到期时间|
 |BuyYear|购买年限|
 |Months|月份数,用于生成子订单数|
 |YearType|年限类型:1-年;2-月;3-天;5-半年;|
