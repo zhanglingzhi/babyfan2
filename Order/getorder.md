@@ -41,7 +41,7 @@ OperatorId:-1
 |TotalPrice|总价|
 |RelatedId|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|
 |OtherRelatedId|附属ID记录购买附属产品时附属产品的关联号|
-|State|订单状态1:处理完成2 :尚未处理3:正在处理4:处理失败5:申请取消|
+|State|订单状态*见表订单状态(State)*|
 |IsCancel|是否已取消 0:未取消；1:已取消|
 |CouponInfo|优惠信息|
 |RoomId|机房ID|
