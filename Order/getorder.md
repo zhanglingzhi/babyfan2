@@ -21,7 +21,7 @@ OperatorId:-1
 #### 响应元素(Response Elements)
 |名称|  描述|
 | ------------- | -------------|
-|OrderId|订单ID|
+|OrderId|订单号|
 |OrderType|订单类型|
 |ProductId|产品ID|
 |ProductType|产品类型|
