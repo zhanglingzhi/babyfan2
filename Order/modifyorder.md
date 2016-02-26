@@ -115,7 +115,7 @@ Date: Fri, 24 Dec 2015 03:15:40 GMT
   "IsTest":0,
   "OrderInfo":"{}",
   "PayType":1
-  "PayState":1
+  "PayState":4
   }
 ```
 
