@@ -154,6 +154,7 @@ OperatorId:1
                 "IsDel":0,
                 "PayType":0,
                 "PayState":0,
+                "CancelRejectReason":"",
                 'ChildOrder':[
                     {
                         "OrderId":"1111",
