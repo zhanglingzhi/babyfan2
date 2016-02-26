@@ -16,6 +16,6 @@
 * [订单取消规则](createrule.md)
    * [CreateRule](Rule/createrule.md)
    * [ModifyRule](Rule/modifyrule.md)
-   * [ListRule](listrule.md)
+   * [ListRule](Rule/listrule.md)
    * [GetRule](getrule.md)
 
