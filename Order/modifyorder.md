@@ -155,8 +155,7 @@ json
   "AllPrice":"48.32",
   "RelatedId":50,
   "CouponInfo":"{}",
-  "RoomId":5,
-  "PoolId":4,
+  "ZoneId":5,
   "IsTest":0,
   "OrderInfo":"{}",
   "PayType":1
