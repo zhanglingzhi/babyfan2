@@ -77,8 +77,8 @@ OperatorId:123
 
 #####自定义类型(QureyTime)
 [
-begin:
-end:
+begin:1456419600
+end:1456786799
 ]
 
 #####订单类型(OrderType)
