@@ -134,7 +134,7 @@ Date: Fri, 24 Dec 2015 03:15:40 GMT
 ```
 json
 {
- "RequestId": "15AfIrB84GDewQk1ymwF",
+ "RequestId": "15AfIrB84GDewQk1ymwG",
   "OrderId":123,
   "OrderType":12,
   "ProductId":20,
