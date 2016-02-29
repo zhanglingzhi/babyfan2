@@ -49,7 +49,7 @@ OperatorId:123
 |EndTime|Integer|到期时间|必选|
 |BuyYear|Integer|购买年限|必选|
 |Months|Integer|月份数,用于生成子订单数|必选|
-|YearType|Integer|年限类型:1-年;2-月;3-天;5-半年;默认2-月|必选|
+|YearType|Integer|年限类型:1-年;2-月;3-天;5-半年;默认2-月|可选|
 |Fee|Float|费用（按量，元/小时）|必选|
 |Price|Float|单价（包年包月）|必选|
 |TotalPrice|Float|总价|必选|
