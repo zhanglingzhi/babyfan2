@@ -28,7 +28,6 @@ OperatorId:123
   "TotalPrice":"50.42",
   "AllPrice":"48.32",
   "ZoneId":5,
-  "PoolId":4,
   "IsTest":0,
   "OrderInfo":"{}",
   "PayType":1
