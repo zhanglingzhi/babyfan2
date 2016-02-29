@@ -161,7 +161,6 @@ OperatorId:1
                 "IsCancel":0,
                 "CouponInfo":"",
                 "ZoneId":0,
-                "IsDel":0,
                 "PayType":0,
                 "PayState":0,
                 "CancelRejectReason":""
