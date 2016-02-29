@@ -194,7 +194,7 @@ OperatorId:1
                 "IsPay":0,
                 "IsCancel":0,
                 "CouponInfo":"",
-                "RoomId":0,
+                "ZoneId":0,
                 "IsDel":0,
                 "PayType":0,
                 "PayState":0,
