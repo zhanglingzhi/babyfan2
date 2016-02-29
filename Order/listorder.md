@@ -75,7 +75,11 @@ OperatorId:123
 |CancelRejectReason|订单取消备注|
 
 
-
+#####自定义类型(QureyTime)
+[
+begin:
+end:
+]
 
 #####订单类型(OrderType)
 
