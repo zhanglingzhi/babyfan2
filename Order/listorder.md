@@ -26,7 +26,7 @@ OperatorId:123
 |OrderId|String|订单号|可选|
 |UserId|Integer|订单所属用户ID|可选|
 |TrackerUser|Integer|跟踪销售|可选|
-|CreateTime|String|下单时间 ''|可选|
+|CreateTime|String|下单时间 '>1456419600 and <1456419600'|可选|
 |EffectTime|Integer|生效时间|可选|
 |EndTime|Integer|到期时间|可选|
 |RoomId|Integer|机房|可选|
