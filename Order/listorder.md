@@ -80,10 +80,6 @@ OperatorId:123
 | ------------- |:-------------:| -------------| ------------- |
 |begin|Integer|开始时间|可选|
 |end|Integer|结束时间|可选|
-[
-begin:Integer
-end:Integer
-]
 
 #####订单类型(OrderType)
 
