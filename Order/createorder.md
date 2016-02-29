@@ -56,8 +56,7 @@ OperatorId:123
 |AllPrice|Float|优惠后价格|必选|
 |RelatedId|Integer|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|可选|
 |CouponInfo|String|优惠信息|可选|
-|ZoneId|Integer|机房ID|必选|
-|PoolId|Integer|集群ID|可选|
+|ZoneId|Integer|可用区ID|必选|
 |IsTest|Integer|是否试用 0:正式；1:试用|必选|
 |OrderInfo|String|订单信息|必选|
 |PayType|Integer|订单支付类型 *见表订单支付类型(PayType)*|必选|
