@@ -35,7 +35,7 @@ OperatorId:-1
 |EndTime|到期时间|
 |BuyYear|购买年限|
 |Months|月份数,用于生成子订单数|
-|YearType|年限类型:1-年;2-月;3-天;5-半年;|
+|YearType|年限类型:1-年;2-月;3-天;5-半年;默认2-月|
 |Fee|费用（按量，元/小时）|
 |Price|单价（包年包月）|
 |TotalPrice|总价|
