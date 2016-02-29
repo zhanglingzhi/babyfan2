@@ -27,7 +27,7 @@ OperatorId:123
   "RelatedId":"1",
   "TotalPrice":"50.42",
   "AllPrice":"48.32",
-  "RoomId":5,
+  "ZoneId":5,
   "PoolId":4,
   "IsTest":0,
   "OrderInfo":"{}",
