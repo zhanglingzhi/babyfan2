@@ -28,7 +28,7 @@ OperatorId:123
 |TrackerUser|Integer|跟踪销售|可选|
 |CreateTime|QueryTime|下单时间,传值格式 *见表自定义类型(QureyTime)*|可选|
 |EffectTime|QueryTime|生效时间 *见表自定义类型(QureyTime)*|可选|
-|EndTime|QueryTime|到期时间|可选|
+|EndTime|QueryTime|到期时间 *见表自定义类型(QureyTime)*|可选|
 |RoomId|Integer|机房|可选|
 |ProductId|Integer|产品型号|可选|
 |ProductCategoryId|Integer|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|可选|
