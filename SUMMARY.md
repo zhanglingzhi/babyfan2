@@ -13,7 +13,7 @@
    * [ModifyOrder](Order/modifyorder.md)
    * [DeleteOrder](Order/deleteorder.md)
    * [BatchCancelOrder](Order/batchcancelorder.md)
-* [订单取消规则](createrule.md)
+* [订单取消规则](Rule/index.md)
    * [CreateRule](Rule/createrule.md)
    * [ModifyRule](Rule/modifyrule.md)
    * [ListRule](Rule/listrule.md)
