@@ -57,8 +57,7 @@ Date: GMT Date
 |AllPrice|优惠后价格|
 |RelatedId|关联ID 若开通云服务器 则关联ID为云服务器的vm_id|
 |CouponInfo|优惠信息|
-|RoomId|机房ID|
-|PoolId|集群ID|
+|ZoneId|可用区ID|
 |IsTest|是否试用 0:正式；1:试用|
 |OrderInfo|订单信息|
 |PayType|订单支付类型 *见表订单支付类型(PayType)*|
