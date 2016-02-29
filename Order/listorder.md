@@ -74,7 +74,7 @@ OperatorId:123
 |IsPay|结算状态 1已结算 2未结算 3已返款|
 |IsCancel|订单取消状态 *见表订单取消状态(IsCancel)*|
 |CouponInfo|优惠信息|
-|RoomId|机房ID|
+|ZoneId|可用区ID|
 |IsDel|云主机是否已删除 0:未删除；1:已删除|
 |PayType|支付类型 *见表订单支付类型(PayType)*|
 |PayState|支付状态 *见表订单支付状态(PayState)*|
