@@ -44,6 +44,7 @@ OperatorId:123
 |ProductCategoryId|Integer|产品类型，对应产品服务的一级产品/产品分类如CEC、RDS、SDN、SPARK、CDN等产品线|必选|
 |UserId|Integer|所属用户|必选|
 |OpUser|Integer|操作用户|必选|
+|PayUser|Integer|付款用户|必选|
 |CreateTime|Integer|下单时间|必选|
 |EffectTime|Integer|生效时间|必选|
 |EndTime|Integer|到期时间|必选|
