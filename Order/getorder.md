@@ -49,7 +49,7 @@ OperatorId:-1
 |PayState|支付状态 *见表订单支付状态(PayState)*|
 |CancelRejectReason|订单取消备注|
 |ChildOrder|子订单|
-|&nbsp;&nbsp;&nbsp;&nbsp;OrderId|子订单订单号|
+|&nbsp;&nbsp;&nbsp;&nbsp;OrderId|主订单订单号|
 |&nbsp;&nbsp;&nbsp;&nbsp;NoBillMoney|子订单未开票金额|
 |&nbsp;&nbsp;&nbsp;&nbsp;BillMoney|子订单已开票金额|
 |&nbsp;&nbsp;&nbsp;&nbsp;Virtual_money|子订单优惠入款金额|
